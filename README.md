@@ -22,8 +22,8 @@ pip install tensorflow numpy pandas matplotlib
 1.  Clone this repository and open the notebook:
 
     ``` bash
-    git clone https://github.com/harshlilawala?tab=repositories
-    cd potato-disease-detection
+    git clone https://github.com/harshlilawala/Potato_diesease_classification.git
+    cd Potato_diesease_classification
     jupyter notebook Potato_Dieases.ipynb
     ```
 
